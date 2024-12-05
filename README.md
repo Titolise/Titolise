@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Gianfilippo Tito🖖</h1>
-<h3 align="center">Data Scientist Student </h3>
+<h3 align="center">Statistical Data Scientist Student </h3>
 
 - 🕵️ Explore my WebSite at: [Home](https://gianfilippotito.site/)
 
