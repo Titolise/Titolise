@@ -5,7 +5,7 @@
 
 - 🌍 I'm based in Perugia, Italy
 - 👨‍🎓 I'm a student at UniPG 🇮🇹
-- 🕵️ Explore my WebSite at: [Home](https://gianfilippotito.site/)
+- 🕵️ Explore my WebSite at: [Home](http://www.gianfilippotito.it/)
 
 <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHQ3bGppZTlpczJlcDYyYnZ5amdjZG1xbGxrNnA4emFjc3hpaWZwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.webp"/>
 
