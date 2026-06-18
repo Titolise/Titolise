@@ -10,8 +10,7 @@
 <img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHQ3bGppZTlpczJlcDYyYnZ5amdjZG1xbGxrNnA4emFjc3hpaWZwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.webp"/>
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-stats-card-generator.vercel.app/api/svg?username=Titolise&theme=dark&type=contributions)
-![Top Languages](https://github-stats-card-generator.vercel.app/api/svg?username=Titolise&theme=dark&type=languages)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Titolise&layout=donut&theme=transparent)](https://github.com/Titolise/github-readme-stats)
 ###
 
 ## 🛠 Language and tools
